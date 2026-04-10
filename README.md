@@ -60,3 +60,58 @@ Download the .pbix file included in the repository.
 Open it using Power BI Desktop.
 
 Explore the interactive filters (Slicers) like Churn to see how metrics change dynamically.
+
+
+                                                                                                  Product Page
+
+
+<img width="1437" height="806" alt="Screenshot 2026-04-10 115929" src="https://github.com/user-attachments/assets/e304344b-8716-4409-9efa-b87675a1ddd9" />
+
+Customer Analysis & Product Performance (Deep Dive)
+🔍 Key Insights from the Second Dashboard
+1. Advanced KPI Metrics
+Total Product Sale: 64M (The actual volume of items moving through the inventory).
+
+Leave Churns: 50K (This is a crucial metric identifying customers who have stopped using the service/product).
+
+Returns %: 2.46% (A very healthy return percentage, showing efficiency in product quality).
+
+2. Demographic Analysis (Age Groups)
+The funnel chart represents sales distribution across different age brackets:
+
+Age 50+: Leading the segment with 275M in purchases.
+
+Age 18-34: Follows with 203M.
+
+Age 35-49: Contributes 191M.
+
+Under 18: Representing a niche market with 12M.
+
+Insight: This shows that the older demographic is your primary revenue driver.
+
+3. Top Customers (Top 5 Performers)
+The horizontal bar chart identifies the highest-spending individuals:
+
+Michael Johnson is the top customer with a total purchase of 339K, followed closely by Michael Smith (322K) and Michael Brown (300K).
+
+4. Category by Quantity
+This chart shows how many items were sold per category:
+
+Clothing (189K), Home (188K), Electronics (188K), and Books (187K).
+
+Insight: Demand is almost perfectly uniform across all product types, indicating a highly diversified and stable inventory.
+
+5. Quarterly Performance (Quarter By Total Purchase)
+The combined bar and line chart shows a steady performance in the first three quarters:
+
+Qtr 1 & Qtr 2: Consistent at 182M - 183M.
+
+Qtr 3: Slight dip to 177M.
+
+Qtr 4: A significant drop to 139M.
+
+Strategic Advice: This highlights the need for end-of-year promotional campaigns to boost Q4 performance.
+
+
+
+
