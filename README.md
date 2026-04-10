@@ -1,6 +1,6 @@
 # Customer-Behavior-Analysis
 
-Home Page 
+                                                            Home Page 
 <img width="1473" height="807" alt="Screenshot 2026-04-10 112701" src="https://github.com/user-attachments/assets/76cbc3e1-9ae7-40e5-ac81-d3916f6d7b6b" />
 
 
@@ -112,6 +112,43 @@ Qtr 4: A significant drop to 139M.
 
 Strategic Advice: This highlights the need for end-of-year promotional campaigns to boost Q4 performance.
 
+                                                          Over All
+                                                          
+<img width="1432" height="793" alt="Screenshot 2026-04-10 115942" src="https://github.com/user-attachments/assets/985036ee-5efa-4957-b4d1-53bdff5a6ec1" />
 
+📑 Detailed Transactional Data View
+🔍 Purpose of this View
+While the first two pages provide high-level summaries and trends, this page offers a Matrix/Table View for deep-dive analysis. It allows stakeholders to look at individual customer transactions, preferred payment methods, and specific product categories.
+
+🔍 Key Features & Insights
+1. Individual Customer Tracking
+The table tracks high-value customers like Michael Johnson, Michael Smith, and Michael Brown.
+
+It showcases their specific buying habits, such as Michael Johnson purchasing 57 items in the Home category using Cash, totaling 45,856.
+
+2. Multi-Dimensional Breakdown
+The table is structured to show the relationship between:
+
+Customer Name: Identifying loyal or high-spending clients.
+
+Payment Method: Seeing which gateway a specific customer prefers (e.g., PayPal vs. Credit Card).
+
+Product Category: Understanding what specific items are driving the most volume for individual users.
+
+3. Data Integrity & Totals
+Sum of Quantity: Totaling 751,234 units.
+
+Sum of Total Purchase Amount: Totaling 681,346,299.
+
+This page serves as a "Source of Truth" to verify the accuracy of the visual charts on the previous pages.
+
+4. Interactive Slicers
+To make this granular data manageable, I have included three primary filters:
+
+Year: To see transaction history by specific timeframes.
+
+Churn: To identify the buying patterns of customers who are at risk of leaving.
+
+Gender: To filter specific demographic buying lists.
 
 
