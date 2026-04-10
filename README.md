@@ -62,7 +62,7 @@ Open it using Power BI Desktop.
 Explore the interactive filters (Slicers) like Churn to see how metrics change dynamically.
 
 
-                                                                                                  Product Page
+                                                            Product Page
 
 
 <img width="1437" height="806" alt="Screenshot 2026-04-10 115929" src="https://github.com/user-attachments/assets/e304344b-8716-4409-9efa-b87675a1ddd9" />
